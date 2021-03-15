@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Dart and Flutter for mobile apps
 - 💞️ I’m looking to collaborate on Flutter teams
 - 📫 How to reach me:
-      💞️ My LinkedIn account:
+       My LinkedIn account:
        - linkedin.com/in/daniel-tanase-758975200
 
