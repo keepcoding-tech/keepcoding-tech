@@ -29,5 +29,5 @@
 <br />
 
 [facebook]: https://www.facebook.com/profile.php?id=100006885674660
-[linkedin]: linkedin.com/in/daniel-tanase
+[linkedin]: https://www.linkedin.com/in/daniel-tanase-758975200/
 [email]: tanasedaniel54@gmail.com
