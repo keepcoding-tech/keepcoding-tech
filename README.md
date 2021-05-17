@@ -17,6 +17,7 @@
 [<img align="left" alt="Daniel Tanase | email" width="45px" style="margin:5px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>][email]
 
 <br />
+<br />
 
 ## Languages and Tools:
 
@@ -28,7 +29,7 @@
 <img width="35px" style="margin:5px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
 <img width="35px" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
 
-<p/>
+<br />
 
 <img width="35px" style="margin:5px" src="https://mpng.subpng.com/20180331/iwe/kisspng-java-runtime-environment-java-development-kit-comp-gucci-logo-5abf0c6d1ff311.5450063015224699971309.jpg" />
 <img width="35px" style="margin:5px" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" />
