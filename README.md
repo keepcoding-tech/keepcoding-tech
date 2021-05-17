@@ -28,11 +28,11 @@
 <img align="left" width="30px" style="margin:5px" src="https://pngimg.com/uploads/linux/linux_PNG1.png" />
 <img align="left" width="35px" style="margin:5px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
 <img align="left" width="35px" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
-
-<br/>
-<br/>
-
 <img align="left" width="35px" style="margin:5px" src="https://mpng.subpng.com/20180331/iwe/kisspng-java-runtime-environment-java-development-kit-comp-gucci-logo-5abf0c6d1ff311.5450063015224699971309.jpg" />
+
+<br/>
+<br/>
+
 <img align="left" width="35px" style="margin:5px" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" />
 <img align="left" width="61px" style="margin:5px" src="https://e7.pngegg.com/pngimages/759/621/png-clipart-sqlite-database-android-computer-software-application-software-android-angle-data.png" />
 <img align="left" width="34px" style="margin:5px" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png" />
