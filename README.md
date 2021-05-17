@@ -34,6 +34,7 @@
 <img align="left" alt="Flutter" width="46px" style="margin:5px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" />
 <img align="left" alt="Dart" width="33px" style="margin:5px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
 <img align="left" alt="Spring boot" width="35px" style="margin:5px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" />
+<img align="left" alt="GitHub" width="35px" style="margin:5px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Firebase" width="39px" style="margin:5px" src="https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/assets/images/firebase.png" />
 
 <br />
