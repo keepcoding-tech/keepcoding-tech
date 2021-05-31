@@ -13,7 +13,7 @@
 ## 📫 How to reach me:
 
 [<img align="left" alt="Daniel Tanase | facebook" width="45px" style="margin:5px" src = "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />][facebook]
-[<img align="left" alt="Daniel Tanase | LinkedIn" width="45px" style = "margin:5px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" />][linkedin]
+[<img align="left" alt="Daniel Tanase | LinkedIn" width="45px" style = "margin:5px" src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" />][linkedin]
 [<img align="left" alt="Daniel Tanase | email" width="45px" style="margin:5px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>][email]
 
 <br />
